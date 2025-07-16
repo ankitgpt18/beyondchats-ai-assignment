@@ -1,30 +1,42 @@
 # Reddit User Persona Extractor
 
-This project extracts a user persona from any public Reddit profile using only free tools (no API keys or paid services required).
+A Python tool to analyze any public Reddit user's activity and generate a concise, evidence-based user persona. This project is designed for anyone interested in social media analysis, digital anthropology, or simply exploring Reddit user behavior.
 
 ## Features
-- Scrapes public posts and comments from a Reddit user profile URL
-- Builds a user persona based on their activity
-- Cites posts/comments as evidence for each persona trait
-- Outputs the persona to a text file
+- Scrapes public posts and comments from a given Reddit profile URL (no login or API keys required)
+- Analyzes content to infer interests, activity level, and writing style
+- Cites specific posts or comments as evidence for each persona trait
+- Outputs a clear, readable persona profile in a text file
 
-## Setup
-1. Ensure you have Python 3.8 or higher installed.
-2. Install dependencies:
+## Installation
+1. Make sure you have Python 3.8 or higher installed.
+2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
 ## Usage
-1. Run the script with a Reddit profile URL:
+1. Run the script from your terminal, providing a Reddit profile URL:
    ```bash
-   python main.py https://www.reddit.com/user/koijed/
+   python main.py https://www.reddit.com/user/example_username/
    ```
-2. The output persona will be saved in the `output/` directory.
+2. The generated persona profile will be saved in the `output/` directory as a `.txt` file named after the Reddit user.
+
+## Example Output
+The output file will include:
+- A summary of the user's top interests, activity level, and writing style
+- A "Citations" section linking each trait to the relevant post or comment
 
 ## Notes
-- Only public Reddit data is used (no login or API keys required).
-- The script is for educational and assignment purposes.
+- This tool only uses publicly available Reddit data.
+- No authentication or paid services are required.
+- For best results, use with active Reddit users who have public posts and comments.
 
-## Example
-See `output/sample_persona_koijed.txt` for a sample output. 
+## Contributing
+Contributions, suggestions, and feedback are welcome! Feel free to open an issue or submit a pull request.
+
+## License
+This project is open source and available under the MIT License.
+
+## Contact
+Created by Ankit (GitHub: [ankitgpt18](https://github.com/ankitgpt18)). 

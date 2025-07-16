@@ -1,0 +1,35 @@
+============================
+USER PERSONA
+============================
+
+Name: Reddit User
+Age: N/A
+Occupation: N/A
+Status: N/A
+Location: N/A
+Tier: N/A
+Archetype: N/A
+
+MOTIVATIONS:
+- Top interests: cops, delhi, common
+
+PERSONALITY:
+- Writes with moderate detail.
+
+BEHAVIOUR & HABITS:
+- Moderately active Redditor.
+
+FRUSTRATIONS:
+- Haha Delhi is hateable too but mostly those are HR or UP14 NCR vehicle. Plus the percentage of vehic...
+
+GOALS & NEEDS:
+- I was caught without helmet and license (close to my home). Cops outright wanted to fine me, but a '...
+
+Citations:
+- Motivation: cops: https://www.reddit.com/r/nagpur/comments/1lyb0p5/a_very_odd_experience/n2ybup0/
+- Motivation: delhi: https://www.reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/
+- Motivation: common: https://www.reddit.com/r/nagpur/comments/1lyb0p5/a_very_odd_experience/n2ybup0/
+- Personality: Writing style: https://www.reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/
+- Behaviour & Habits: Activity: https://www.reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/
+- Frustration: https://www.reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/n2ilsqh/
+- Goal/Need: https://www.reddit.com/r/nagpur/comments/1lyb0p5/a_very_odd_experience/n2ybup0/
